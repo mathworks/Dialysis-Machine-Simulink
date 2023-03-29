@@ -1,4 +1,5 @@
 # Hemodialysis Machine Design with Simulink
+[![View Dialysis Machine in Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/127014-dialysis-machine-in-simulink)
 In Silico Medicine refers to the use of computational models and simulations to mimic human anatomy and physiological processes in order to design, test and validate medical devices. With MATLAB&reg; and Simulink&reg;, you can leverage in silico medicine in the research and development of new medical devices, such as dialysis machines. This model demonstrates how to model and simulate an ultrafiltration control system for a hemodialysis machine with Simulink&reg; and Stateflow&reg;.
 
 ## Description 
