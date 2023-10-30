@@ -19,7 +19,7 @@ Ultrafiltration in dialysis establishes a pressure gradient across the dialyzer 
 
 This project covers many short examples of critical model based design workflow. As, you can see from figure below, except realtime simulation/testing and cerrtification, we have provided all other examples. Please follow scripts below to execute each segment of the workflow.
 
-<img src="Image/MBD_adoption.gif" width=750 height=500>
+<img src="maskImages/MBD_adoption.gif" width=750 height=500>
 
 **[i] Requirement Management:** Click on 'Requirements' folder from project. You will find system level original requirement document (Hemodialysis_Requirements.xlsx) and imported requirements set (Hemodialysis_Requirements.slreqx) into requirement toolbox. Requirement set can also be access from project shortcut (SYSTEMSENGINEERING group).
 **[ii] Architecture Diagram:** Functional, logical and sequence diagrams are in /Models/1. Architecture folders. Logical architecture diagram can also be access from project shortcut (SYSTEMSENGINEERING group)
